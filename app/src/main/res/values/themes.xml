@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Framework theme only: no AppCompat / Material library dependency needed. -->
+    <style name="Theme.GhostAI" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:colorPrimary">@color/ghost_cyan</item>
+        <item name="android:colorAccent">@color/ghost_purple</item>
+        <item name="android:colorControlActivated">@color/ghost_cyan</item>
+        <item name="android:windowBackground">@color/ghost_bg</item>
+        <item name="android:statusBarColor">@color/ghost_bg</item>
+        <item name="android:navigationBarColor">@color/ghost_bg</item>
+        <item name="android:textColorPrimary">@color/ghost_text</item>
+        <item name="android:textColorHint">@color/ghost_text_dim</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

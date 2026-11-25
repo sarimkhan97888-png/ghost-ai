@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ghost AI</string>
+    <string name="accessibility_service_description">Ghost AI reads the text on your screen and performs taps, typing, scrolling and navigation when you give it a voice command.</string>
+
+    <string name="notif_channel_name">Ghost overlay</string>
+    <string name="notif_title">Ghost is active</string>
+    <string name="notif_text">Tap the GHOST pill to give a voice command</string>
+    <string name="notif_text_wake">Say "Ghost" or "Jarvis", or tap the GHOST pill</string>
+    <string name="notif_action_stop">STOP</string>
+
+    <string name="header_ghost">GHOST</string>
+    <string name="header_ai">AI</string>
+    <string name="tagline">VOICE ASSISTANT // SCREEN AUTOMATION</string>
+    <string name="section_api">GEMINI API KEY</string>
+    <string name="hint_api_key">Paste your Gemini API key</string>
+    <string name="btn_save">SAVE</string>
+    <string name="btn_show">SHOW</string>
+    <string name="btn_hide">HIDE</string>
+    <string name="key_status_none">No key saved yet</string>
+    <string name="key_status_saved">Key saved (%1$s)</string>
+    <string name="key_saved_toast">API key saved securely</string>
+    <string name="key_empty_toast">Paste a key first</string>
+
+    <string name="section_permissions">PERMISSIONS</string>
+    <string name="perm_mic_title">Microphone</string>
+    <string name="perm_mic_desc">Hear your voice commands</string>
+    <string name="perm_overlay_title">Floating Overlay</string>
+    <string name="perm_overlay_desc">Show the GHOST pill over other apps</string>
+    <string name="perm_acc_title">Accessibility Service</string>
+    <string name="perm_acc_desc">Read the screen and perform actions</string>
+    <string name="btn_enable">ENABLE</string>
+    <string name="btn_granted">ACTIVE</string>
+
+    <string name="wake_title">Wake word</string>
+    <string name="wake_desc">Say "Ghost" or "Jarvis" to activate hands-free</string>
+    <string name="btn_activate">ACTIVATE GHOST OVERLAY</string>
+    <string name="btn_stop">STOP GHOST</string>
+    <string name="hint_ready">All set. Activate, then tap the GHOST pill and speak.</string>
+    <string name="hint_missing">Still missing: %1$s</string>
+    <string name="hint_no_key">Save your Gemini API key to continue</string>
+    <string name="footer">gemini-3.8-flash</string>
+
+    <string name="pill_label">GHOST</string>
+    <string name="pill_listening">LISTENING</string>
+    <string name="pill_thinking">THINKING</string>
+    <string name="pill_acting">ACTING</string>
+    <string name="popup_listening">GHOST // LISTENING</string>
+    <string name="popup_thinking">GHOST // THINKING</string>
+    <string name="popup_reply">GHOST // REPLY</string>
+    <string name="popup_error">GHOST // ERROR</string>
+    <string name="popup_speak_now">Speak your command...</string>
+    <string name="popup_tap_cancel">TAP TO CANCEL</string>
+    <string name="popup_tap_close">TAP TO CLOSE</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ghost_bg">#08080D</color>
+    <color name="ghost_surface">#10101A</color>
+    <color name="ghost_surface_alt">#0D0D16</color>
+    <color name="ghost_stroke">#26263A</color>
+    <color name="ghost_cyan">#00F5D4</color>
+    <color name="ghost_purple">#9B5DE5</color>
+    <color name="ghost_danger">#FF3D71</color>
+    <color name="ghost_text">#EAEAF5</color>
+    <color name="ghost_text_dim">#8A8AA3</color>
+</resources>
