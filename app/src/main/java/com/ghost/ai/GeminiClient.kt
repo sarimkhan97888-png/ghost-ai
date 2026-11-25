@@ -266,7 +266,7 @@ class GeminiClient {
         }
     }
 
-    private suspend fun Call.await(): Pair<Int, String> = suspendCancellableCoroutine { cont ->
+    private suspend fun Call.await(): Pair<Int, String>  = suspendCancellableCoroutine<String> { cont ->
         cont.invokeOnCancellation {
             try {
                 cancel()
